@@ -60,7 +60,7 @@ nav {
 
 .importanttext {
   font-weight: bold;
-  color: #ff0000;
+  color: #AD0000;
 }
 
 .composervideos {
@@ -155,11 +155,12 @@ nav li a {
 }
 
 nav li a:hover {
-  background-color: #111;
+  background-color: #FFFFFF;
+  color: #000000
 }
 
 nav .active {
-  background-color: #04AA6D;
+  background-color: #155f44;
 }
 
 
@@ -183,7 +184,7 @@ nav .active {
 }
 
 .headertitle li a:hover {
-  color: #3e8e41; !important;
+  color: #51B353; !important;
 }
 
 /* ========================================================================= */
